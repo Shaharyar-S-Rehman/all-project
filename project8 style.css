@@ -1,0 +1,368 @@
+#bar1{
+    background-color: rgb(246, 246, 246);
+    height: 60px;
+}
+#shad1{
+    background-color: white;
+    color: white;
+    box-shadow: 0px 0px 2px 2px  rgb(212, 212, 212);
+}
+#center{
+    margin: 0 25% 0 25%;
+}
+.nav{
+    display: inline-block;
+    height: 60px;
+}
+#center2{
+    margin: 0 20% 0 20%;
+}
+.nav2{
+    margin: 0%;
+    display: inline-block;
+}
+#nav2:hover{
+    content: url(images/n2.png);
+}
+#nav3:hover{
+    content: url(images/n3.png);
+}
+#nav4:hover{
+    content: url(images/n4.png);
+}
+#nav5:hover{
+    content: url(images/n5.png);
+}
+#nav6:hover{
+    content: url(images/n6.png);
+}
+#nav7:hover{
+    content: url(images/n7.png);
+}
+#black{
+    background-color: black;
+}
+#white{
+    background-color: white;
+    margin: 3% 10% 0 10%;
+}
+.in{
+    margin-left: 14%;
+    display: inline-block;
+    align-items: center;
+}
+#grey{
+    border-radius: 5px;
+    border-top: 0px;
+    background-color: rgb(170, 170, 170);
+}
+#grey:hover{
+    background-color: rgb(141, 140, 140);
+}
+.gray>p{
+    text-align: justify;
+    margin: 10px;
+    font-size: 18px;
+    color: rgb(65, 65, 65);
+}
+.gray>h2{
+    margin-left: 10px;
+    color: black;
+}
+#blue{
+    margin-left: 15px;
+    border-radius: 5px;
+    background-color: blue;
+}
+#blue:hover{
+    background-color: rgb(2, 2, 149);
+}
+.blue>p{
+    color: skyblue;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.blue>h2{
+    margin-left: 10px;
+    color: whitesmoke;
+}
+#green{
+    background-color: rgb(114, 197, 114);
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+#green:hover{
+    background-color: rgba(68, 153, 68, 0.829);
+}
+.green>h2{
+    color: whitesmoke;
+    margin-left: 10px;
+}
+#pink{
+    background-color: rgb(251, 136, 198);
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+#pink:hover{
+    background-color: rgba(223, 5, 139, 0.979);
+}
+.pink>h2{
+    color: whitesmoke;
+    margin-left: 10px;
+}
+#black{
+    position: relative;
+    bottom: 15px;
+    background-color: rgb(34, 34, 34);
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+h2{
+    font-family:"Flexo-Medium",arial,sans-serif;;
+}
+p{
+    font-family: "Roboto",arial,sans-serif;
+}
+#black:hover{
+    background-color: rgb(26, 25, 25);
+}
+.black>h2{
+    color: whitesmoke;
+    margin-left: 10px;
+}
+.inl{
+    margin-top: 15px;
+    display: inline-block;
+    align-items: center;
+}
+#in{
+    margin-left: 14%;
+}
+#cub{
+    background-color: black;
+}
+.choo{
+    background-color: rgb(41, 41, 41);
+    display: inline-block;
+    margin-left: 0px;
+    
+}
+.pic1{
+    color:whitesmoke;
+    margin-left: 10px;
+}
+.a1{
+    margin-left: 10%;
+}
+#a2{
+    position: relative;
+    top: 70px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+    border-radius: 5px;
+    width: 279px;
+    background-color: red;
+}
+#a2:hover{
+    background-color: rgb(197, 3, 3);
+}
+.red>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color: lightgray;
+}
+.red>h2{ margin-left: 10px;
+    color: white;
+}
+#a3{
+    position: relative;
+    bottom: 0px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+    border-radius: 5px;
+    width: 279px;
+    display: block;
+    background-color: rgb(221, 196, 57);
+}
+#a3:hover{
+    background-color: rgb(235, 204, 29);
+}
+.yellow>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color: black;
+}
+.yellow>h2{ margin-left: 10px;
+    color: white;
+}
+#a4{
+    position: relative;
+    top: 80px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 279px;
+    margin-bottom: 0%;
+    background-color: rgb(155, 93, 255);
+}
+#a4:hover{
+    background-color: rgb(147, 64, 230);
+}
+.purple>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color:black
+}
+.purple>h2{ 
+    margin-left: 10px;
+    color: white;
+}
+.new{
+    background-color: white;
+}
+.new>h2{
+    padding-top: 5%;
+    padding-bottom: 10%;
+    margin-left: 10px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    color: grey;
+}
+#a5{
+    position: relative;
+    bottom: 100px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    border-radius: 5px;
+    width: 279px;
+    background-color: rgb(240, 100, 49);
+}
+#a5:hover{
+    background-color: rgb(246, 84, 26);
+}
+.orange>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color:black
+}
+.orange>h2{ 
+    margin-left: 10px;
+    color: white;
+}
+#a6{
+    margin-bottom: 0%;
+    position: relative;
+    bottom: 30px;
+    margin-top: 0px;
+    border-radius: 5px;
+    width: 279px;
+    background-color: rgb(46, 46, 46);
+}
+#a6:hover{
+    background-color: rgb(44, 41, 41);
+}
+.black2>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color: grey;
+}
+.black2>h2{ 
+    margin-left: 10px;
+    color: white;
+}
+#a7{
+    margin-bottom: 0%;
+    position: relative;
+    bottom: 90px;
+    margin-top: 0px;
+    border-radius: 5px;
+    width: 279px;
+    background-color: rgb(118, 195, 226)
+}
+#a7:hover{
+    background-color: rgb(85, 182, 221);
+}
+.sky>p{
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 20px;
+    color: black;
+}
+.sky>h2{
+    margin-left: 10px;
+    color: white;
+}
+
+#nav{
+    position: relative;
+    left: 50.5%;
+    bottom: 100px;
+    margin-bottom: 0%;
+}
+#nav:hover{
+    content: url(images/co.png);
+}
+.wid{
+    position: relative;
+    left: 30px;
+    bottom: 125px;
+    width: 30px;
+    
+}
+#three{
+    margin-left: 17%;
+    border-right: 2px solid black;
+    width: 300px;
+    height: 220px;
+}
+#three>h2{
+    font-size: 20px;
+    color: white;
+}
+#three>ul>li{
+    margin-left: 5%;
+    color: grey;
+}
+#two{
+    margin-left: 130px;
+    width: 280px;
+    height: 220px;
+}
+#two>ul>a{
+    color: grey;
+}
+#two>p{
+    color: grey;
+    font-size: 10px;
+}
+.four{
+    position: relative;
+    right: 120px;
+    top: 50px;
+}
+#one{
+    margin-left: 20px;
+    border-right: 2px solid black;
+    width: 240px;
+}
+.left{
+    display: inline-block;
+}
+
+#nav:hover,.shake:hover,.in:hover,.mar:hover{
+    animation: shake 0.3s;
+}
+@keyframes shake {
+    100% {
+        transform: translateY(15px);
+    }
+    100% {
+        transform: translateY(-15px);
+    }
+}
